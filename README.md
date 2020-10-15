@@ -1,10 +1,11 @@
-# new_one
+# Random word List
 
-A new Flutter project.
+A Flutter sample project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter to get an idea about flutter project.
+
 
 A few resources to get you started if this is your first Flutter project:
 
